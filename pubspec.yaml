@@ -1,7 +1,7 @@
 name: circle_calculator
 description: A sample command-line application.
 version: 1.0.0
-repository: git@github.com:Abdalla-Medhat/circle_calculator.git
+repository: https://github.com/Abdalla-Medhat/circle_calculator.git
 
 environment:
   sdk: ^3.5.4
