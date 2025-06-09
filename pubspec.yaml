@@ -1,5 +1,5 @@
 name: circle_calculator
-description: A sample command-line application.
+description: A simple Dart package for calculating circle and rectangle areas and providing variable type utilities.
 version: 1.0.0
 repository: https://github.com/Abdalla-Medhat/circle_calculator.git
 
